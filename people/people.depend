@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635587840 source:d:\code\界面\people\people.cpp
+	<iostream>
+	<string>
+	"people.h"
+
+1635587540 d:\code\界面\people\people.h
+	<iostream>
+
+1635587776 source:d:\code\界面\people\main.cpp
+	<iostream>
+	"people.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635474502 source:d:\code\界面\clocks\clocks.cpp
+	"Clocks.h"
+	<iostream>
+
+1635474502 d:\code\界面\clocks\clocks.h
+
+1635473620 source:d:\code\界面\clocks\main.cpp
+	<iostream>
+	"Clocks.h"
+

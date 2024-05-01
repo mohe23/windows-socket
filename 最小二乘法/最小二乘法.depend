@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636168511 source:d:\code\界面\最小二乘法\main.cpp
+	<iostream>
+	"Point.h"
+	<cmath>
+
+1636168408 d:\code\界面\最小二乘法\point.h
+

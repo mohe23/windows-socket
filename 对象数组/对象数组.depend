@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636165754 source:d:\code\界面\对象数组\main.cpp
+	<iostream>
+	"Point.h"
+
+1636166259 d:\code\界面\对象数组\point.h
+
+1636166259 source:d:\code\界面\对象数组\point.cpp
+	<iostream>
+	"Point.h"
+

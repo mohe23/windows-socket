@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FamilyP - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/FamilyP.res" /d "_DEBUG" /d "_AFXDLL" "D:\CODE\ΩÁ√Ê\FamilyP\FamilyP.rc"" 
+Creating temporary file "C:\temp\RSP22C2.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/FamilyP.pdb" /debug /machine:I386 /out:"Debug/FamilyP.exe" /pdbtype:sept 
+".\Debug\Admin.obj"
+".\Debug\FamilyP.obj"
+".\Debug\FamilyPDlg.obj"
+".\Debug\Inforg.obj"
+".\Debug\Pinfor.obj"
+".\Debug\Rede.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TableID.obj"
+".\Debug\User.obj"
+".\Debug\FamilyP.res"
+]
+Creating command line "link.exe @C:\temp\RSP22C2.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+FamilyP.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

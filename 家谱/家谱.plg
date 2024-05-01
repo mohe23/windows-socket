@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 家谱 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/家谱.res" /d "_DEBUG" /d "_AFXDLL" "D:\Code\界面\家谱\家谱.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/家谱.pdb" /debug /machine:I386 /out:"Debug/家谱.exe" /pdbtype:sept  ".\Debug\StdAfx.obj" ".\Debug\家谱.obj" ".\Debug\家谱Dlg.obj" ".\Debug\家谱.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+家谱.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

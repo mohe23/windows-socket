@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707231598 source:d:\code\界面\leetcodeteasy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1707230407 source:d:\code\界面\leetcodeteasy\t83.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
